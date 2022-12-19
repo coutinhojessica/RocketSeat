@@ -1,0 +1,19 @@
+
+- Primeiros passos
+
+Comentário JavaScript
+// Comentário em linha
+/*Comentário para parágrafo*/
+
+- Tipos de dados
+
+1 - String
+
+'' aspas simples
+"" aspas duplas
+`` template literals ou template string - permite multe linhas
+
+
+- Scope e Var
+    - Var é global e também local (funciona fora do scope).
+    - let e const são locais e só funcionam no escopo onde foi criada.
